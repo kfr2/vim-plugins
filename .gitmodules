@@ -40,3 +40,6 @@
 [submodule "vim-numbertoggle"]
 	path = vim-numbertoggle
 	url = git://github.com/jeffkreeftmeijer/vim-numbertoggle.git
+[submodule "jslint.vim"]
+	path = jslint.vim
+	url = https://github.com/hallettj/jslint.vim.git
