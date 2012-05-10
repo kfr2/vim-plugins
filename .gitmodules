@@ -43,3 +43,6 @@
 [submodule "jslint.vim"]
 	path = jslint.vim
 	url = https://github.com/hallettj/jslint.vim.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
