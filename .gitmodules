@@ -46,3 +46,6 @@
 [submodule "syntastic"]
 	path = syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "scss-syntax.vim"]
+	path = scss-syntax.vim
+	url = https://github.com/cakebaker/scss-syntax.vim.git
