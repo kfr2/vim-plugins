@@ -55,3 +55,6 @@
 [submodule "vim-l9"]
 	path = vim-l9
 	url = git://github.com/slack/vim-l9.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = git://github.com/kien/ctrlp.vim.git
