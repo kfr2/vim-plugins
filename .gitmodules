@@ -48,7 +48,7 @@
 	url = https://github.com/juvenn/mustache.vim.git
 [submodule "vim-colors-solarized"]
 	path = vim-colors-solarized
-	url = https://github.com/altercation/vim-colors-solarized.git
+	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "vim-virtualenv"]
 	path = vim-virtualenv
 	url = https://github.com/jmcantrell/vim-virtualenv.git
