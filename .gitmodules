@@ -4,12 +4,6 @@
 [submodule "tcomment"]
 	path = tcomment
 	url = https://github.com/vim-scripts/tComment.git
-[submodule "l9"]
-	path = l9
-	url = https://github.com/vim-scripts/L9.git
-[submodule "fuzzy-finder"]
-	path = fuzzy-finder
-	url = https://github.com/vim-scripts/FuzzyFinder.git
 [submodule "ack"]
 	path = ack
 	url = https://github.com/mileszs/ack.vim.git
