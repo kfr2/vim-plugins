@@ -52,12 +52,12 @@
 [submodule "vim-virtualenv"]
 	path = vim-virtualenv
 	url = https://github.com/jmcantrell/vim-virtualenv.git
-[submodule "vim-l9"]
-	path = vim-l9
-	url = git://github.com/slack/vim-l9.git
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = git://github.com/kien/ctrlp.vim.git
 [submodule "tomorrow-night-vim"]
 	path = tomorrow-night-vim
 	url = git://github.com/mnoble/tomorrow-night-vim.git
+[submodule "supertab"]
+	path = supertab
+	url = git://github.com/ervandew/supertab.git
