@@ -58,3 +58,6 @@
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = git://github.com/kien/ctrlp.vim.git
+[submodule "tomorrow-night-vim"]
+	path = tomorrow-night-vim
+	url = git://github.com/mnoble/tomorrow-night-vim.git
